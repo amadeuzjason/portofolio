@@ -8,9 +8,9 @@ function Hero() {
     <div className='container'>
         <div className='flex flex-wrap'>
             <div className='w-full self-center p-4 lg:w-1/2'>
-                <h1 className='text-base font-semibold text-primary md:text-lg lg:text-2xl'>Welcome to Renfred Technologies <span className='block font-bold text-dark text-4xl mt-1 lg:text-5xl'>with XI RPL 4</span></h1>
+                <h1 className='text-base font-semibold text-primary md:text-lg lg:text-2xl'>Welcome to My Sites <span className='block font-bold text-dark text-4xl mt-1 lg:text-5xl'>with XI RPL 4</span></h1>
                 <h2 className='font-medium text-secondary text-lg mb-5 lg:text-2xl'>Kumpulan para frontend developer muda</h2>
-                <p className='font-medium text-secondary mb-10 leading-relaxed'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi laborum ipsam voluptatibus. Quasi, culpa. Iure, earum.</p>
+                <p className='font-medium text-secondary mb-10 leading-relaxed'>I'm a Designer Graphic also a Programmer.</p>
                 <Link href='#' className='text-base font-bold text-white bg-primary py-3 px-8 rounded-full hover:shadow-lg hover:opacity-70 transition ease-in-out duration-300'>Hubungi Kami</Link>
             </div>
             <div className='w-full self-end p-4 lg:w-1/2'>
